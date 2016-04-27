@@ -1,0 +1,46 @@
+urxvt*font: xft:Inconsolata\ for\ Powerline:pixelsize=16
+URxvt*scrollBar: false
+
+! Base16 draculac
+! Scheme: danikkks
+
+#define base00 #1E1F29
+#define base01 #1E1F29
+#define base02 #586875
+#define base03 #667581
+#define base04 #85939E
+#define base05 #ffffff
+#define base06 #E8E9ED
+#define base07 #F5F7FA
+#define base08 #ff5555
+#define base09 #FF5555
+#define base0A #f1fa8c
+#define base0B #FF79C6
+#define base0C #ff79c6
+#define base0D #50FA7B
+#define base0E #bd93f9
+#define base0F #ff79c6
+
+*foreground:   base05
+*background:   base00
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07
+
+

@@ -1,0 +1,21 @@
+{
+  "name": "startup-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node ./index.js"
+  },
+  "author": "danikkks",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "babel-cli": "^6.6.5",
+    "shelljs": "^0.6.0",
+    "babel-preset-es2015": "^6.6.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3"
+  }
+}
