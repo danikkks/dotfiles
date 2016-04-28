@@ -81,7 +81,6 @@ nnoremap <leader>. q:k<CR>
 let g:ctrlp_custom_ignore = '\v[\/](node_modules)$'
 let g:indentLine_enabled = 1
 let g:indentLine_leadingSpaceEnabled=1
-let mapleader = "-"
 let g:jsx_ext_required = 0
 let g:javascript_enable_domhtmlcss = 1
 let g:pymode_python = 'python3'
